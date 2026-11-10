@@ -19,6 +19,8 @@ I build backend services and connect business systems. For 2+ years I've worked 
 - Polly resilience, scoped API keys, rate limiting, RFC 9457 errors, Serilog and trace ids
 - 71 tests with about 73% coverage in CI, Docker, Codespaces, an architecture guide and 5 ADRs · [v1.0.0](https://github.com/ucciefmhmd/erp-sync-connector/releases/tag/v1.0.0)
 
+**[Dataverse Plugins Showcase](https://github.com/ucciefmhmd/dataverse-plugins-showcase)**: C# Dataverse plugins and a Custom API on standard tables: contact data quality, a credit-limit guard using a FetchXML aggregate, and a credit-summary Custom API. Business rules are kept out of the SDK, plugins are thin, errors are traced safely, and 58 tests run the plugins through `IPlugin.Execute`.
+
 ### What I work on
 
 | Area | In practice |
