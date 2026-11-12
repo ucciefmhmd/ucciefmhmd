@@ -1,6 +1,6 @@
 ## Hi, I'm Youssef 👋
 
-**.NET Backend Engineer · ASP.NET Core · Dynamics 365 CE / Dataverse · System Integrations**
+**.NET Backend Developer · ASP.NET Core · REST APIs & System Integrations · Dynamics 365 CE / Dataverse**
 
 I build backend services and connect business systems. For 2+ years I've worked on **production** platforms built with ASP.NET Core and Microsoft Dynamics 365 / Dataverse: Dataverse plugins, REST APIs, integration services between CRM and external systems, and the performance work that keeps them fast.
 
@@ -44,8 +44,7 @@ I build backend services and connect business systems. For 2+ years I've worked 
 
 | Project | What it is |
 |---|---|
-| [LMS-API](https://github.com/ucciefmhmd/LMS-API) | .NET 8 Web API: JWT auth, role-based access, EF Core, AutoMapper |
-| [LMS-dashboard](https://github.com/ucciefmhmd/LMS-dashboard) | Angular 17 + PrimeNG admin dashboard for the LMS API |
+| LMS Platform <sub>(private repositories, in development)</sub> | A learning management system: .NET 10 REST API split into Api, Application, Infrastructure and Persistence projects, EF Core + SQL Server, JWT with refresh-token rotation; Angular student and staff portals in English and Arabic |
 | [Examination-Exam](https://github.com/ucciefmhmd/Examination-Exam) | SQL Server exam system: role-based procedures, views, triggers, automatic grading (team project) |
 | [Clinical-Management-System](https://github.com/ucciefmhmd/Clinical-Management-System) | C# Windows Forms clinic app on EF Core (team project) |
 
